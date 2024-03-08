@@ -1,0 +1,14 @@
+release/desjiami.o
+release/dininc.o
+release/form.o
+release/main.o
+release/mainwindow.o
+release/rsa.o
+release/shortestpath.o
+release/qrc_image.o
+release/moc_desjiami.o
+release/moc_dininc.o
+release/moc_form.o
+release/moc_mainwindow.o
+release/moc_rsa.o
+release/moc_shortestpath.o
